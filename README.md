@@ -38,6 +38,8 @@ THEN I find a concise, descriptive title
 ```
 ## Website Screenshot:
 
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Develop/assets/images/ScreenshotSample.png)
+
 ## Links:
 
 <strong> Github: </strong>
