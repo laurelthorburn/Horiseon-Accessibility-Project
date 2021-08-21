@@ -1,4 +1,6 @@
-# Horiseon-Accessibility-Project Description
+# Horiseon-Accessibility-Project
+
+## Description:
 Creating a mock-up site for Horiseon and ensuring accessibility for all users.    
 
 Examples of changes include:
@@ -11,7 +13,7 @@ Examples of changes include:
 <li> Alternative text was added to each image for enhanced accessibility</li>
 <br>
 
-## User Story
+## User Story:
 
 ```
 AS A marketing agency
@@ -19,7 +21,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
 
-## Acceptance Criteria
+## Acceptance Criteria:
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -34,9 +36,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-## Website Screenshot
+## Website Screenshot:
 
-## Links
+## Links:
 
 <strong> Github: </strong>
 
