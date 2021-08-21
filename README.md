@@ -9,6 +9,7 @@ Examples of changes include:
 <li> Changed formatting in css stylesheet in order to better mirror html index</li>
 <li> Added comments to box indev and stylesheet for future authors/users</li>
 <li> Alternative text was added to each image for enhanced accessibility</li>
+<br>
 
 ## User Story
 
@@ -40,5 +41,3 @@ THEN I find a concise, descriptive title
 <strong> Github: </strong>
 
 <strong> Deployed Site:</strong>
-
-description, screenshot, link to deployed site and link to git gub
