@@ -86,7 +86,7 @@ section.content img {
     color: #ffffff;
 }
 
-/* Benefits Section (Right Side Bar) */
+/* Benefits Section (Right Aside Bar) */
 .benefitsection {
     margin-right: 20px;
     padding: 20px;
@@ -103,7 +103,7 @@ section.content img {
     color: #ffffff;
 }
 
-/* Attributes for Service Articles and Benefit Section */
+/* Attributes for Service Articles and Benefit Aside */
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -122,11 +122,4 @@ h2 {
 h3 {
     margin-bottom: 10px;
     text-align: center;
-}
-
-img[data-filetype="benefitsimage"] {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-    max-height: 200px;
 }
