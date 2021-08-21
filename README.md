@@ -1,7 +1,7 @@
 # Horiseon-Accessibility-Project Description
 Creating a mock-up site for Horiseon and ensuring accessibility for all users.    
 
-Some examples of changes include:
+Examples of changes include:
 <ul>
 <li> Creating a descriptive and concise title</li>
 <li> Fixed broken navigation for an internal link </li>
@@ -35,7 +35,10 @@ THEN I find a concise, descriptive title
 ```
 ## Website Screenshot
 
+## Links
 
+<strong> Github: </strong>
 
+<strong> Deployed Site:</strong>
 
 description, screenshot, link to deployed site and link to git gub
