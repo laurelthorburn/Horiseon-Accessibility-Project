@@ -1,4 +1,4 @@
-# Horiseon-Accessibility-Project
+# Horiseon-Accessibility-Project Description
 Creating a mock-up site for Horiseon and ensuring accessibility for all users
 
 ## User Story
@@ -24,4 +24,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## Website Screenshot
 
+
+
+
+description, screenshot, link to deployed site and link to git gub
