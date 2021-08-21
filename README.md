@@ -6,7 +6,7 @@ Some specific examples of changes include:
 <li> Creating a descriptive and concise title</li>
 <li> Fixed broken navigation for an internal link </li>
 <li> Changed repetive 'div' tags to alternative HTML elements (e.g., section, nav, articles, etc.) </li>
-<li> Changed formatting to adhere to semantic HTML</li>
+<li> Changed formatting in css stylesheet in order to better mirror html index</li>
 
 ## User Story
 
