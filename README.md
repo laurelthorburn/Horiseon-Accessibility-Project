@@ -8,6 +8,7 @@ Some specific examples of changes include:
 <li> Changed repetive 'div' tags to alternative HTML elements (e.g., section, nav, articles, etc.) </li>
 <li> Changed formatting in css stylesheet in order to better mirror html index</li>
 <li> Added comments to box indev and stylesheet for future authors/users</li>
+<li> For accessibility, alternative text was added to each image</li>
 
 ## User Story
 
