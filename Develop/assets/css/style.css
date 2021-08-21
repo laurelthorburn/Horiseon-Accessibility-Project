@@ -60,6 +60,7 @@ header h1 {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
 }
 
@@ -70,7 +71,7 @@ header h1 {
     margin-left: 20px;
 }
 
-/* Attribute Selector for images containing hook */
+/* Attribute Selector for Service Articles */
 section.content img {
     max-height: 200px;
 }
@@ -83,21 +84,6 @@ section.content img {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 /* Benefits Section (Right Side Bar) */
@@ -115,6 +101,22 @@ h2 {
 .benefits{
     margin-bottom: 32px;
     color: #ffffff;
+}
+
+/* Attributes for Service Articles and Benefit Section */
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 h3 {
