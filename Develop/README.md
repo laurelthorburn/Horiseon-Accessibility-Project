@@ -38,7 +38,7 @@ THEN I find a concise, descriptive title
 ```
 ## Website Screenshot:
 
-![The Horiseon webpage sample Screenshot.](./Develop/assets/images/ScreenshotSample.png)
+![The Horiseon webpage sample Screenshot.](./assets/images/ScreenshotSample.png)
 
 ## Links:
 
