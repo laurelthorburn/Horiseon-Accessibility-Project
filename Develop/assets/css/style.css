@@ -70,7 +70,7 @@ header h1 {
 }
 
 /* Attribute Selector for images containing hook */
-div.content img {
+article.content img {
     max-height: 200px;
 }
 
