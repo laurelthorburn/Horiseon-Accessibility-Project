@@ -1,5 +1,12 @@
 # Horiseon-Accessibility-Project Description
-Creating a mock-up site for Horiseon and ensuring accessibility for all users.  This project included condensing repetitive css, creative semantic html elements, adding comments to the html and stylesheet, adn ensuring the page is accessibility for all users, including users with unique needs.
+Creating a mock-up site for Horiseon and ensuring accessibility for all users.  This project included condensing repetitive css, creative semantic html elements, adding comments to the html and stylesheet, adn ensuring the page is accessibility for all users, including users with unique needs.  
+
+Some specific examples of changes include:
+<ul>
+<li> Creating a descriptive and concise title</li>
+<li> Fixed broken navigation for an internal link </li>
+<li> Changed repetive 'div' tags to alternative HTML elements (e.g., section, nav, articles, etc.) </li>
+<li> Changed formatting to adhere to semantic HTML</li>
 
 ## User Story
 
