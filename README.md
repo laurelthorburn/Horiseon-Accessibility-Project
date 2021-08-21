@@ -7,6 +7,7 @@ Some specific examples of changes include:
 <li> Fixed broken navigation for an internal link </li>
 <li> Changed repetive 'div' tags to alternative HTML elements (e.g., section, nav, articles, etc.) </li>
 <li> Changed formatting in css stylesheet in order to better mirror html index</li>
+<li> Added comments to box indev and stylesheet for future authors/users</li>
 
 ## User Story
 
