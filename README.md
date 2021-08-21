@@ -42,6 +42,6 @@ THEN I find a concise, descriptive title
 
 ## Links:
 
-<strong> Github: </strong>
+<strong> Github: </strong> https://github.com/laurelthorburn/Horiseon-Accessibility-Project
 
 <strong> Deployed Site:</strong>
