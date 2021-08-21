@@ -103,6 +103,12 @@ section.content img {
     color: #ffffff;
 }
 
+aside.benefitsection img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+    max-height: 200px;
+
 /* Attributes for Service Articles and Benefit Aside */
 h2 {
     margin-bottom: 20px;
