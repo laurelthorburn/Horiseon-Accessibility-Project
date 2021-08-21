@@ -44,4 +44,4 @@ THEN I find a concise, descriptive title
 
 <strong> Github: </strong> https://github.com/laurelthorburn/Horiseon-Accessibility-Project.git
 
-<strong> Deployed Site:</strong> https://laurelthorburn.github.io/Horiseon-Accessibility-Project
+<strong> Deployed Site:</strong> https://laurelthorburn.github.io/Horiseon-Accessibility-Project/
